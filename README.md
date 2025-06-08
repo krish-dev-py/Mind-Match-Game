@@ -5,7 +5,7 @@ Python project where the user guesses a random number.
 This is a fun Python game where the computer picks a number between 1 and 20, and the user has to guess it. The game gives clues based on how close the guess is.
 
 ## How to Run
-- Run `guess_game.py` using Python 3
+- Run `mind-match.py` using Python
 - Follow on-screen instructions
 
 ## Features
